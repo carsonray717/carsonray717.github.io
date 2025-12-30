@@ -1,4 +1,4 @@
-# carsonray717.github.io
+# thegamertips.com
 <!DOCTYPE html>
 <html lang="en">
 <head>
